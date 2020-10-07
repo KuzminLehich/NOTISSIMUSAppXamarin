@@ -1,0 +1,14 @@
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\bin\Debug\netstandard2.0\NOTISSIMUS.deps.json
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\bin\Debug\netstandard2.0\NOTISSIMUS.dll
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.csprojAssemblyReference.cache
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.AssemblyInfoInputs.cache
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.AssemblyInfo.cs
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\bin\Debug\netstandard2.0\ref\NOTISSIMUS.dll
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\bin\Debug\netstandard2.0\NOTISSIMUS.pdb
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.csproj.CoreCompileInputs.cache
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.dll
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\ref\NOTISSIMUS.dll
+C:\Users\kuzmi\source\repos\NOTISSIMUS\NOTISSIMUS\NOTISSIMUS\obj\Debug\netstandard2.0\NOTISSIMUS.pdb
